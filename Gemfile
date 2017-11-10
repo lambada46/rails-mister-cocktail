@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'figaro'
+gem 'cloudinary'
 # le wagon setup
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
