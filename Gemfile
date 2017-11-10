@@ -7,6 +7,8 @@ end
 
 gem 'figaro'
 gem 'cloudinary'
+gem 'carrierwave', '~> 0.11.2'
+
 # le wagon setup
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
